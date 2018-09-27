@@ -9,4 +9,5 @@
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
 
 fork 自https://github.com/ityouknow/ityouknow.github.io
-纯洁的微笑大佬的博客：
+
+纯洁的微笑大佬的博客：www.ityouknow.com
